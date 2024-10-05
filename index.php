@@ -1,4 +1,3 @@
-
-
-HALLO FIQRI HEHEHEHEHE
-
+<?php
+  <p>Selamat Datang</p>
+?>
